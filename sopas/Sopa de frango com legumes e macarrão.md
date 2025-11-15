@@ -39,3 +39,20 @@ Finalização:
     1/4 xícara de salsinha e cebolinha picadas
 
     1 tomate maduro sem sementes, picado (para adicionar no final)
+
+
+   
+
+## Modo de Preparo
+- Refogue o frango:
+- Em uma panela grande, aqueça o óleo e doure o alho e a cebola.
+- Adicione o frango e refogue até dourar levemente. Tempere com sal e pimenta.
+- Adicione os legumes:
+- Acrescente a cenoura, batata, chuchu, abobrinha, vagem e o tomate (se usar).
+- Misture bem e refogue por 2 a 3 minutos.
+- Cozinhe:
+- Adicione a água (e o caldo de galinha, se quiser) e deixe cozinhar em fogo médio por cerca de 20 minutos, ou até os legumes ficarem macios.
+- Coloque o macarrão:
+- Adicione o macarrão e cozinhe por mais 8 a 10 minutos, até ele ficar al dente.
+- Finalize:
+- Ajuste o sal, adicione cheiro-verde picado e desligue o fogo.
