@@ -1,5 +1,10 @@
 # 🍳✨ DevCulinária – Livro de Receitas Colaborativo
 
+Bem-vindo ao nosso Livro de Receitas Colaborativo!
+Este projeto foi criado para praticar os conceitos de Gerência de Configuração de Software com Git e GitHub.
+
+Aqui, cada integrante da equipe contribui com receitas organizadas por categoria, aplicando as boas práticas de versionamento, commits e Pull Requests.
+
 O repositório onde código encontra sabor.  
 Desenvolvedores criando receitas, commits e temperando conhecimento!
 
