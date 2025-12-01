@@ -28,38 +28,54 @@ Desenvolvedores criando receitas, commits e temperando conhecimento!
 ## 🗂️ Estrutura do Projeto
 
 DevCulinaria/
-│
-├── carnes/
-│ ├── bolo-de-carne-de-pata.md
-│ ├── Carne-de-Panela-com-Batatas.md
-│ └── .gitkeep
-│
-├── massas/
-│ ├── macarrao-a-carbonara.md
-│ ├── macarronada.md
-│ └── .gitkeep
-│
-├── saladas/
-│ ├── salada-fresca-classica.md
-│ ├── Salada-Mediterranea-com-Frango-Grelhado.md
-│ └── .gitkeep
-│
-├── sobremesas/
-│ ├── mousse-de-maracuja-simples.md
-│ ├── pudim-de-leite.md
-│ └── .gitkeep
-│
-├── sopas/
-│ ├── Sopa Cremosa de Abóbora com Gengibre.md
-│ ├── Sopa de Feijão com Macarrão Caseira.md
-│ ├── Sopa de frango com legumes e macarrão.md
-│ ├── Sopa de Legumes com Frango.md
-│ └── .gitkeep
-│
-├── CONTRIBUTING.md
-├── MENU.md
-└── README.md
 
+├── README.md
+
+├── CONTRIBUTING.md
+
+├── MENU.md
+
+├── carnes/
+
+│ ├── bolo-de-carne-de-pata.md
+
+│ ├── Carne-de-Panela-com-Batatas.md
+
+│ └── .gitkeep
+
+├── massas/
+
+│ ├── macarrao-a-carbonara.md
+
+│ ├── macarronada.md
+
+│ └── .gitkeep
+
+├── saladas/
+
+│ ├── salada-fresca-classica.md
+
+│ ├── Salada-Mediterranea-com-Frango-Grelhado.md
+
+│ └── .gitkeep
+
+├── sobremesas/
+
+│ ├── mousse-de-maracuja-simples.md
+
+│ ├── pudim-de-leite.md
+
+│ └── .gitkeep
+
+└── sopas/
+
+├── Sopa-Cremosa-de-Abobora-com-Gengibre.md
+
+├── Sopa-de-Feijao-com-Macarrao-Caseira.md
+
+├── Sopa-de-frango-com-legumes-e-macarrao.md
+
+└── Sopa-de-Legumes-com-Frango.md
 
 ---
 
