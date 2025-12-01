@@ -1,55 +1,127 @@
-# 🍳 Livro de Receitas – DevCulinária
+# 🍳✨ DevCulinária – Livro de Receitas Colaborativo
 
-Bem-vindo ao nosso **Livro de Receitas Colaborativo!**  
-Este projeto foi criado para praticar os conceitos de **Gerência de Configuração de Software** com **Git e GitHub**.
+O repositório onde código encontra sabor.  
+Desenvolvedores criando receitas, commits e temperando conhecimento!
 
-Aqui, cada integrante da equipe contribui com receitas organizadas por categoria, aplicando as boas práticas de versionamento, commits e Pull Requests.
+---
+
+- 📁 Organização impecável  
+- 🍽️ Receitas categorizadas  
+- 🤝 Colaboração profissional com Git/GitHub  
+- 📚 Exercício prático de Gerência de Configuração de Software  
 
 ---
 
 ## 👥 Equipe DevCulinária
-- Geovany de Oliveira Silva Batista (Owner)
--  jose Gabriel de Oliveira Farias
-- Afonso Vanderlei da Silva
-- Gleyson da Silva Calvacante
-- Paulo Herique SAles Lima
-- Ryan Fortes Gomes
+
+| Nome | Função |
+|------|--------|
+| Geovany de Oliveira Silva Batista | Owner / Mantenedor |
+| Jose Gabriel de Oliveira Farias | Contribuidor |
+| Afonso Vanderlei da Silva | Contribuidor |
+| Gleyson da Silva Calvacante | Contribuidor |
+| Paulo Henrique Sales Lima | Contribuidor |
+| Ryan Fortes Gomes | Contribuidor |
 
 ---
 
 ## 🗂️ Estrutura do Projeto
-├── README.md
+
+DevCulinaria/
+│
+├── carnes/
+│ ├── bolo-de-carne-de-pata.md
+│ ├── Carne-de-Panela-com-Batatas.md
+│ └── .gitkeep
+│
+├── massas/
+│ ├── macarrao-a-carbonara.md
+│ ├── macarronada.md
+│ └── .gitkeep
+│
+├── saladas/
+│ ├── salada-fresca-classica.md
+│ ├── Salada-Mediterranea-com-Frango-Grelhado.md
+│ └── .gitkeep
+│
+├── sobremesas/
+│ ├── mousse-de-maracuja-simples.md
+│ ├── pudim-de-leite.md
+│ └── .gitkeep
+│
+├── sopas/
+│ ├── Sopa Cremosa de Abóbora com Gengibre.md
+│ ├── Sopa de Feijão com Macarrão Caseira.md
+│ ├── Sopa de frango com legumes e macarrão.md
+│ ├── Sopa de Legumes com Frango.md
+│ └── .gitkeep
+│
 ├── CONTRIBUTING.md
 ├── MENU.md
-├── saladas/
-├── carnes/
-├── sopas/
-├── massas/
-└── sobremesas/
+└── README.md
+
 
 ---
 
 ## 🚀 Como Contribuir
-1. Escolha uma receita e abra uma *issue* com o nome dela.  
-2. Crie uma *branch* no formato `feature/<categoria>-<nome-da-receita>`.  
-3. Adicione sua receita na categoria correta (`.md`).  
-4. Faça o *commit* com a mensagem padronizada.  
-5. Abra um *Pull Request* e peça revisões.  
-6. Após aprovação, atualize o `MENU.md`.  
+
+### 1️⃣ – Abra uma Issue  
+Padrão:
+
+
+### 2️⃣ – Crie uma branch  
+Formato obrigatório:
+
+
+### 3️⃣ – Adicione sua receita  
+Inclua no arquivo `.md`:
+
+- Título  
+- Ingredientes  
+- Modo de preparo  
+- Imagem (opcional)
+
+### 4️⃣ – Faça um commit padronizado  
+
+
+### 5️⃣ – Abra o Pull Request  
+- Solicite revisões  
+- Relacione à Issue  
+- Escreva uma descrição clara  
+
+### 6️⃣ – Atualize o MENU.md  
+Após a aprovação do PR.
 
 ---
 
 ## 🧾 Regras Gerais
-- Nenhum *commit* direto na branch `main`.  
-- Todo *Pull Request* deve ter **3 aprovações**.  
-- Cada nova receita deve ser adicionada em uma *branch* separada.  
-- O arquivo `MENU.md` deve ser atualizado após cada nova receita.
+
+✔️ Uma branch separada para cada receita  
+✔️ 3 aprovações por PR  
+✔️ Proibido fazer commit direto na `main`  
+✔️ Todas as mudanças devem ser documentadas  
+✔️ O arquivo `MENU.md` deve ser sempre atualizado  
+
+❌ Não copiar conteúdo da internet  
+❌ Não misturar categorias  
+❌ Não abrir PR sem Issue correspondente  
 
 ---
 
-## 🍽️ Categorias
-- [Saladas](saladas/)
-- [Carnes](carnes/)
-- [Sopas](sopas/)
-- [Massas](massas/)
-- [Sobremesas](sobremesas/)
+## 🍽️ Categorias do Livro
+
+
+- 🥗 **[Saladas](saladas/)**  
+- 🍖 **[Carnes](carnes/)**  
+- 🍜 **[Sopas](sopas/)**  
+- 🍝 **[Massas](massas/)**  
+- 🍰 **[Sobremesas](sobremesas/)**
+
+
+---
+
+## 📘 MENU Principal
+
+**Clique aqui para acessar o MENU.md**
+
+**[Clique aqui para acessar o MENU](MENU.md)**
