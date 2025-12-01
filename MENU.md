@@ -50,4 +50,4 @@ Escolha uma categoria para explorar:
 
 ---
 
-🔼 **[Voltar ao início](README.md)**
+🔼 **[Voltar ao README](README.md)**
