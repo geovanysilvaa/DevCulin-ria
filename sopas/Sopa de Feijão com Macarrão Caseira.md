@@ -21,5 +21,5 @@ Uma sopa clássica, encorpada e muito saborosa, ideal para uma refeição comple
 
 ---
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

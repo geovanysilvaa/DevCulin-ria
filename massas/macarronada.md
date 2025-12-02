@@ -31,5 +31,5 @@ Misture o macarrão com o molho de sua preferência (tomate, branco, bolonhesa e
 
 ---
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

@@ -43,5 +43,5 @@ Sirva imediatamente para manter todos os ingredientes frescos e crocantes.
 
 ---
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

@@ -46,5 +46,6 @@ Aqui estão os ingredientes básicos para preparar uma deliciosa carne de panela
 
 ---
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

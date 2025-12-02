@@ -29,5 +29,5 @@
 
 ---
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)
