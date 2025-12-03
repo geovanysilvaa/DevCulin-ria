@@ -40,6 +40,8 @@ Escolha uma categoria para explorar:
 ## 🍰 Sobremesas
 - [Mousse de Maracujá Simples](./sobremesas/mousse-de-maracuja-simples.md)
 - [Pudim de Leite](./sobremesas/pudim-de-leite.md)
+- [Bolo de Cenoura](./sobremesas/novareceita-bolo-de-cenoura.md)
+- [Cookies de Chocolate](./sobremesas/novareceita-Cookies-de-Chocolate.md)
 
 ---
 
